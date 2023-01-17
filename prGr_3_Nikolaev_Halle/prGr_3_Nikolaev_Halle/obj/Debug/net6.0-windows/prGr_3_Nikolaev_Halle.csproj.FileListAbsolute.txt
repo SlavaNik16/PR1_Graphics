@@ -1,0 +1,17 @@
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\bin\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.exe
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\bin\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.deps.json
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\bin\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.runtimeconfig.json
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\bin\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.dll
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\bin\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.pdb
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.csproj.AssemblyReference.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.Form1.resources
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.csproj.GenerateResource.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.GeneratedMSBuildEditorConfig.editorconfig
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.AssemblyInfoInputs.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.AssemblyInfo.cs
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.csproj.CoreCompileInputs.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.dll
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\refint\prGr_3_Nikolaev_Halle.dll
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.pdb
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\prGr_3_Nikolaev_Halle.genruntimeconfig.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\prGr_3_Nikolaev_Halle\prGr_3_Nikolaev_Halle\obj\Debug\net6.0-windows\ref\prGr_3_Nikolaev_Halle.dll

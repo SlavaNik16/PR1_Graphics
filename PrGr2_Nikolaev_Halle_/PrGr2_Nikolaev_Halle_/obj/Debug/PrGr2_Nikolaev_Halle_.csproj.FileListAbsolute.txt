@@ -1,0 +1,11 @@
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\bin\Debug\PrGr2_Nikolaev_Halle_.exe.config
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\bin\Debug\PrGr2_Nikolaev_Halle_.exe
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\bin\Debug\PrGr2_Nikolaev_Halle_.pdb
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\obj\Debug\PrGr2_Nikolaev_Halle_.csproj.AssemblyReference.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\obj\Debug\PrGr2_Nikolaev_Halle_.csproj.SuggestedBindingRedirects.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\obj\Debug\PrGr2_Nikolaev_Halle_.Form1.resources
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\obj\Debug\PrGr2_Nikolaev_Halle_.Properties.Resources.resources
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\obj\Debug\PrGr2_Nikolaev_Halle_.csproj.GenerateResource.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\obj\Debug\PrGr2_Nikolaev_Halle_.csproj.CoreCompileInputs.cache
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\obj\Debug\PrGr2_Nikolaev_Halle_.exe
+X:\МДК 01.01 Разработка программных модулей\Пр№Диаграммы\PrGr2_Nikolaev_Halle_\PrGr2_Nikolaev_Halle_\obj\Debug\PrGr2_Nikolaev_Halle_.pdb
